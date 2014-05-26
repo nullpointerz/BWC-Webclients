@@ -1,0 +1,2 @@
+These includes are included on every page on the website for a more consistent and easier approach when changing stuff in the future.
+Any changes made in these files will affect every other files that have included these files.
