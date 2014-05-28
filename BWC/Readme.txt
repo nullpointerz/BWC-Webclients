@@ -19,3 +19,5 @@ If you see Session user on the webpage it means that the page is checking if you
 if you see include header, footer or connect_to_mysql.php it means that it either adding header, footer content or adding the database connection script.
 
 It's really hard to explain everything here and especially when i cannot comment in the code so i recommend you to contact william_bergendahl@hotmail.com if you have any further questions or if you want me to come to school i can talk about every file,method,function, snippet you name it!
+
+Please don't hesitate to contact me if you encounter an error with the website i know it should work 100% and i will help you install and run it if needed.
