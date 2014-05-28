@@ -2,6 +2,14 @@ All of these files are core files needed for the website to run. aswell the file
 
 You can skip the style folder and still have full functionality but the website design would then collapse.
 
+In order to login to the website you need to have either wamp server or xaamp or something similiar and import the bwc.sql it contains the user login data.
+
+The login is 
+Username: William 
+Password: Bergendahl
+
+In order to get the simulator working correctly and running on the site an internet connection is requires since the unity player is directly streamed from their website, if no connection is set up the player cannot be run on your computer.
+
 I couldnt really comment into the files since they got messed up.
 
 But i will explain the main features:
