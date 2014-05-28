@@ -1,5 +1,4 @@
 <?php
-//session for checking that the user has logged in first, if not redirect the user to the login page.
 session_start();
 if (!isset($_SESSION["User"])) {
 	header("location: Login.php");
@@ -26,8 +25,7 @@ if (!isset($_SESSION["User"])) {
 </div>
  </div>
 </div>
-<?php include_once("Includes/Footer.php");
- ?>
+<?php include_once("Includes/Footer.php"); ?>
 
 </body>
 </html>

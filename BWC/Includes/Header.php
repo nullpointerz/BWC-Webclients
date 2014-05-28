@@ -7,6 +7,7 @@
 <div id="menu">
 <ul><a href="Index.php">Home</a></ul>
 <ul><a href="Positions.php">Positions</a></ul>
+<ul><a href="Simulator.php">Simulator</a></ul>
 <ul><a href="about.php">About BWC</a></ul>
 <ul><a href="Logout.php">Logout</a></ul>
  </div>
